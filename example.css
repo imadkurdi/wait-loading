@@ -1,0 +1,14 @@
+section {
+   block-size: 36px;
+   font-size: 125%;
+   background-color: burlywood;
+   padding: 10px;
+   display: flex;
+   align-items: center;
+}
+
+button {
+   align-self: stretch;
+   margin-inline-end: 16px;
+   cursor: pointer;
+}
