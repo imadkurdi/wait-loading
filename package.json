@@ -1,0 +1,33 @@
+{
+  "name": "@imadkurdi/wait-loading",
+  "version": "1.0.0",
+  "description": "This is a spin-like component. You could use it to indicate that something is going on and the user should wait for it. It is a standard custom web component written in pure vanilla JS, so it could be used in any framework.",
+  "main": "wait-loading.js",
+  "keywords": [
+    "wait",
+    "waiting",
+    "load",
+    "loading",
+    "spin",
+    "spinner",
+    "busy",
+    "progress",
+    "indicator",
+    "ui",
+    "browser",
+    "component",
+    "web component",
+    "custom element",
+    "vanilla js"
+  ],
+  "author": "Imad Kurdi",
+  "license": "MIT",
+  "homepage": "https://github.com/imadkurdi/wait-loading#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imadkurdi/wait-loading.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imadkurdi/wait-loading/issues"
+  }
+}
